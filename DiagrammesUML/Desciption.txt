@@ -1,0 +1,5 @@
+Ce repertoire est reserver pour tout nos diagramme UML
+C est a dire:
+- diagramme de Cas d'Utilisation
+- diagramme de Classe
+- Diagramme d'activite
