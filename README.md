@@ -29,3 +29,16 @@ Nous avons identifié le besoin d'améliorer les services de notre restaurant un
 En d’autres termes, il s’agira de :
               CONCEVOIR ET REALISER UNE APPLICATION WEB ET MOBILE 
               DE RESTAURATION UNIVERSITAIRE
+
+OBJECTIFS SPECIFIQUE
+
+Pour réaliser cet objectif global, plusieurs objectifs spécifiques doivent être atteints, qui sont les suivants :
+-	Créer une interface facile à utiliser
+-	Personnaliser l’interface et les fonctionnalités de l’application pour chaque université
+-	Gerer les différents types d’utilisateur
+-	Permettre les commandes en ligne
+-	Fournir des informations sur les restaurants et les menus
+-	Permettre aux utilisateurs de donner leur avis
+-	Optimiser l'application pour le web et le mobile
+-	Maintenir et mettre à jour l'application
+
