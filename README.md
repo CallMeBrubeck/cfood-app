@@ -2,7 +2,7 @@ Projet : CFood(Campus FOOD)
 
 Membres
 
-1- KAMBIRE KOKO INNOCENT @CallMeBrubreck
+1- **KAMBIRE KOKO INNOCENT** [@CallMeBrubreck](https://github.com/CallMeBrubeck/)
 
 2- SOGOBA EMMANUEL @nazaga-tech
 
