@@ -1,18 +1,18 @@
-Projet : CFood(Campus FOOD)
+# Projet : CFood(Campus FOOD)
 
-Membres
+### Membres
 
-1- **KAMBIRE KOKO INNOCENT** [@CallMeBrubreck](https://github.com/CallMeBrubeck/)
+ * **KAMBIRE KOKO INNOCENT** [@CallMeBrubreck](https://github.com/CallMeBrubeck/)
 
-2- SOGOBA EMMANUEL @nazaga-tech
+ * SOGOBA EMMANUEL @nazaga-tech
 
-3- TRAORE MOUSSA @MoussaTraor
+ * TRAORE MOUSSA @MoussaTraor
 
-4- KOUASSI EMMANUEL @manudev
+ * KOUASSI EMMANUEL @manudev
 
-5- KOUADIO SERI ANGE 
+ * KOUADIO SERI ANGE 
 
-DESCRIPTION
+## DESCRIPTION
 
 Dans le restaurant de l’UPB, et sans doute dans ceux des autres universités, certaines méthodes traditionnelles de gestion persistent. Une étude menée auprès d’un échantillon d’étudiants de l’UPB a révélé un certain nombre de critiques sur leur fonctionnement interne et sur la relation entre le personnel et les étudiants. Parmi ces critiques, on trouve :
 •	La gestion de façon traditionnelle (manuelle)
@@ -23,14 +23,14 @@ Ces problèmes ne sont probablement pas uniques à l’UPB. Ils pourraient égal
 C’est dans cette optique que nous, étudiants de l’UPB, intervenons. Nous souhaitons apporter "la" solution informatique qu'est Cfood (Campus Food) pour faciliter la gestion des restaurants universitaires, non seulement à l’UPB, mais aussi dans toutes les universités de Côte d’Ivoire afin d’améliorer le rendement et la satisfaction de toutes les parties prenantes : étudiants, personnel du restaurant, administration, professeurs, et directeurs de restaurant.
 Nous prévoyons une mise en œuvre progressive de notre solution, en commençant par une ou deux universités avant de l’étendre à d’autres. Cela nous permettra de tester notre solution, de résoudre les problèmes potentiels et d’apporter des améliorations avant une mise en œuvre à grande échelle.
 
-OBJECTIF GLOBAL
+## OBJECTIF GLOBAL
 
 Nous avons identifié le besoin d'améliorer les services de notre restaurant universitaire ainsi que celui de certaines universités. Après six ans d'opération, il est temps d'innover et d'adopter des solutions numériques en phase avec le domaine d'expertise de l'université.
 En d’autres termes, il s’agira de :
               CONCEVOIR ET REALISER UNE APPLICATION WEB ET MOBILE 
               DE RESTAURATION UNIVERSITAIRE
 
-OBJECTIFS SPECIFIQUE
+## OBJECTIFS SPECIFIQUE
 
 Pour réaliser cet objectif global, plusieurs objectifs spécifiques doivent être atteints, qui sont les suivants :
 -	Créer une interface facile à utiliser
@@ -41,4 +41,8 @@ Pour réaliser cet objectif global, plusieurs objectifs spécifiques doivent êt
 -	Permettre aux utilisateurs de donner leur avis
 -	Optimiser l'application pour le web et le mobile
 -	Maintenir et mettre à jour l'application
+
+## FONCTIONNALITES PRINCIPALES
+
+
 
