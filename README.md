@@ -4,7 +4,7 @@
 
  * **KAMBIRE KOKO INNOCENT** [@CallMeBrubreck](https://github.com/CallMeBrubeck/)
 
- * SOGOBA EMMANUEL @nazaga-tech
+ * SOGOBA EMMANUEL [@nazaga-tech](https://github.com/nazaga-tech/)
 
  * TRAORE MOUSSA @MoussaTraor
 
