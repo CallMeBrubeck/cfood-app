@@ -12,7 +12,7 @@
 
  * KOUADIO SERI ANGE 
 
-<img src="chemin_vers_votre_icone" alt="Description de l'icône">## DESCRIPTION
+ ## DESCRIPTION
 
 Dans le restaurant de l’UPB, et sans doute dans ceux des autres universités, certaines méthodes traditionnelles de gestion persistent. Une étude menée auprès d’un échantillon d’étudiants de l’UPB a révélé un certain nombre de critiques sur leur fonctionnement interne et sur la relation entre le personnel et les étudiants. Parmi ces critiques, on trouve :
 •	La gestion de façon traditionnelle (manuelle)
@@ -43,9 +43,9 @@ Pour réaliser cet objectif global, plusieurs objectifs spécifiques doivent êt
 -	Maintenir et mettre à jour l'application
 
 ## FONCTIONNALITES PRINCIPALES
-    **Utilisateurs Client :'Etudiants, PersonnelAdministration, Enseignant'
+    ** Utilisateurs Client :'Etudiants, PersonnelAdministration, Enseignant'
 
-    **Restaurant
+    ** Restaurant
       
     
 
